@@ -1,0 +1,1 @@
+print("Smoke Crack. Good for health.")
